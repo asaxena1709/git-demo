@@ -8,3 +8,6 @@ git add
 git add .
 git commit 
 git status
+git clone
+git remote add 
+git push -u 
