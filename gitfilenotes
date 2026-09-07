@@ -1,13 +1,5 @@
-Git Notes:
-
-Commds:
-
-git --versions
-git init
-git add 
-git add .
-git commit 
-git status
-git clone
-git remote add 
-git push -u 
+git branch 
+git status 
+git branch -a 
+git branch new-branch
+git branch 
